@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DeviceID</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="gsf_id">GSF ID</string>
+    <string name="imei">IMEI</string>
+    <string name="imsi">IMSI</string>
+    <string name="secure_id">Secure ID</string>
+    <string name="UUID">UUID</string>
+    <string name="share">Copy &amp; Share</string>
+     <string name="heading">Unique IDs available on your device</string>
+    
+    
+
+</resources>
